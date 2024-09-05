@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Shows Port stats
+netstat -lp
